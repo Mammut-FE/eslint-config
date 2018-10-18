@@ -1,0 +1,25 @@
+{
+  "name": "@mammut-fe/eslint-config-mammut",
+  "version": "0.0.0",
+  "description": "ESLint config for Mammut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mammut"
+  ],
+  "author": "XGHeaven",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mammut-FE/eslint-config.git"
+  }
+}
